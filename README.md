@@ -1,2 +1,2 @@
 # Ruby-ex
-First step to learning Ruby
+My First steps to learning Ruby
